@@ -1,2 +1,3 @@
 # rifqifathur261.github.io
-This is my old Portfolio made with someone's template 😂
+
+a Simple Portfolio made with love ♥
